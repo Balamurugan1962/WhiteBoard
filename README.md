@@ -49,8 +49,6 @@ Contributions are always 🤗 welcomed! Follow these steps:
 4. Push to your branch ⬆️.
 5. Open a pull request.
 
-## 🪪 License
-This project is licensed under the MIT License 📜. See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 Have questions or feedback? Reach out via [Your contact info].
