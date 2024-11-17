@@ -1,7 +1,7 @@
-# 🖌️ WhiteBoard Project
+# WhiteBoard Project
 
 ## 📝 Overview
-The **🖌️ WhiteBoard** project is a 🤝 collaborative desktop application that allows users to interact on a shared digital canvas in ⏱️ real-time. This tool is designed for 🧑‍🤝‍🧑 teamwork where an admin 🧑‍💻 hosts and others 👥 join as clients. It is ideal for ✍️ drawing, ✂️ erasing, and 💬 sharing ideas—perfect for remote 💡 brainstorming and 🗣️ discussions.
+The **WhiteBoard** project is a desktop application designed for collaborative work (currently under development) that allows users to interact on a shared digital canvas in ⏱️ real-time. This tool is designed for 🧑‍🤝‍🧑 teamwork where an admin 🧑‍💻 hosts and others 👥 join as clients. It is ideal for ✍️ drawing, ✂️ erasing, and 💬 sharing ideas—perfect for remote 💡 brainstorming and 🗣️ discussions.
 
 ## ⭐ Features
 - **Host & Join 🖥️ Sessions**: Users can start as the 🏠 host or 📥 join as a client.
@@ -28,7 +28,7 @@ Ensure the following are installed:
    javac -cp . *.java
    ```
 
-## ▶️ Usage
+## ▶️ Usage (collaborative feature not yet available)
 1. **Host a Session**:
    - Run the main class and select 🏠 host.
    - Enter the 🖧 network address and 🔢 port.
